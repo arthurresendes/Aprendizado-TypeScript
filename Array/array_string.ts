@@ -1,3 +1,3 @@
-let array: string[]
-array = ['a','b','c']
-console.log(array)
+let ar: string[]
+ar = ['a','b','c']
+console.log(ar)
