@@ -11,5 +11,5 @@ class Cachorro extends Animal{
 }
 }
 
-an1 = new Cachorro()
-console.log(an1.maleSound())
+let an1 = new Cachorro()
+console.log(an1.makeSound())
